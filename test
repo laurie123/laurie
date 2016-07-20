@@ -29,10 +29,10 @@
        </div>
        <div class="collapse navbar-collapse" id="navigationbar">
            <ul class="nav navbar-nav">
-               <li class="active"><a href="index.html">home</a></li>
-               <li><a href="experience.html">Experience</a></li>
-               <li><a href="services.html">Services</a></li>    
-               <li><a href="contact.html">Contact</a></li>
+               <li class="active"><a href="./Index.html">home</a></li>
+               <li><a href="./Rueckblick.html">home2</a></li>
+               <li><a href="./Wettbewerb.html">home3</a></li>    
+               <li><a href="./anmelden.html">home4</a></li>
            </ul>
       </div><!-- /.navbar-collapse -->
    </div><!-- /.container-fluid -->
